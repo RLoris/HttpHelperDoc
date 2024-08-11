@@ -149,3 +149,7 @@ _Bind to the events before opening the communication to receive them properly_
 | OnBinaryMessage | | Message(Array(Byte)) | Event triggered when a binary message is received |
 | OnMessageSent | | Message(String) | Event triggered when a message is sent |
 | OnConnectionRetry | | RetryCount(Int) | Event triggered before a connection retry |
+
+### Demos
+
+[Demo Websocket blueprint](https://blueprintue.com/blueprint/8bt0av6s/)
